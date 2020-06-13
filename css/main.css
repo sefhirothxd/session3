@@ -27,6 +27,7 @@ body{
     flex-wrap: wrap;
     justify-content: flex-start;
     
+    
 }
 
 .primero{
@@ -47,6 +48,10 @@ body{
 .footer p{
     margin: 0px;
     padding: 40px;
+}
+
+.container-img{
+    margin: 5px;
 }
 
 img{
