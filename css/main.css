@@ -1,0 +1,55 @@
+
+
+body{
+    margin: 0;
+}
+.contaniner{
+   width: 400px;
+   margin: 0 auto;
+}
+
+.header{
+    
+    height: 100px;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+
+.titulo{
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.bloque{
+    display: flex;
+    padding-left: 20px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    
+}
+
+.primero{
+    background-color: blue;
+}
+
+.segundo{
+    background-color: orange;
+}
+.footer{
+    background-color: red;
+    color: white;
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.footer p{
+    margin: 0px;
+    padding: 40px;
+}
+
+img{
+    width:  100px;
+}
+
